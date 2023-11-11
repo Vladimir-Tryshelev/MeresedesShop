@@ -30,16 +30,26 @@ button {
     color: #000000;
 }
 #Cross{
+    background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2020/09/20/1391159/02a0b25b22b2b9b9b83bd62840d4d6d7.jpg");
+    background-size: 170px;
+    color: transparent;
+    display: inline-block;
     font-size: 100px;
     text-align: left;
-    color: silver;
+    color: white;
     font-family: Freco;
+    text-decoration: none;
 }
 #Gel{
+    background-image: url("https://a.d-cd.net/GEAAAgFHfeA-1920.jpg");
+    background-size: 170px;
+    color: transparent;
+    display: inline-block;
     font-size: 100px;
     text-align: left;
-    color:gray;
+    color: white;
     font-family: Freco;
+    text-decoration: none;
 }
 #main_img
 {  display: block;
@@ -49,10 +59,15 @@ button {
     max-width: 65%;
 }
 #Sed {
+    background-image: url("https://www.tadviser.ru/images/0/01/Mercedes-benz-c-class-2018-w205-amg-silver-new-c-class.jpg");
+    background-size: 170px;
+    color: transparent;
+    display: inline-block;
     font-size: 100px;
     text-align: left;
     color: black;
     font-family: Freco;
+    text-decoration: none;
 }
 #main_text {
     font-size: 30px;
@@ -70,5 +85,8 @@ button {
     display: block;
     margin: 0 auto;
 }
-
+#laws {
+    font-size: 15px;
+    background-color: black;
+    color: white;
 }
