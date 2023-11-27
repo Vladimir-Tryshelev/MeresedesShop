@@ -1,0 +1,59 @@
+#main_name {
+    font-size: 100px;
+    text-align: center;
+    font-family: Milston;
+}
+#forma1{
+    float: left;
+}
+img.img{
+    width: 70%;
+}
+
+p.price{
+    font-size: 35px;
+    font-family: Milston;
+}
+button.button_buy {
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+
+}
+a.detail{
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+}
+p.infa{
+    font-size: 35px;
+    font-family: Milston;
+}
+p.name{
+    font-size: 35px;
+    font-family: Milston;
+}
+#forma3{
+    justify-content: center;
+    align-items: center;
+    display: flow-root;
+}
+td.td{
+    width: 33.33%;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: azure;
+}
